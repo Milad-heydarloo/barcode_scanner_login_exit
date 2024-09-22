@@ -219,7 +219,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/vm_service-14.2.4",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/vm_service-14.2.5",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -230,10 +230,10 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-08-16T21:47:23.223240Z",
+  "generated": "2024-09-22T07:59:41.830166Z",
   "generator": "pub",
-  "generatorVersion": "3.5.0",
+  "generatorVersion": "3.5.3",
   "flutterRoot": "file:///Users/mac/Dev/flutter",
-  "flutterVersion": "3.24.0",
+  "flutterVersion": "3.24.3",
   "pubCache": "file:///Users/mac/.pub-cache"
 }
