@@ -661,6 +661,9 @@ class OrderBuyProductPage extends StatelessWidget {
                       // لیست محصولات خریداری شده
                       ...order.buy_product.map((product) {
                         return ExpansionTile(
+                          collapsedBackgroundColor:   product.snBuyProductLogin.length == int.parse(product.number)
+                              ? Colors.green // در صورت برابر بودن تعداد، سبز شود
+                              : Colors.orange,
                           title: Row(
                             children: [
                               Text(
